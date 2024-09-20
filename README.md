@@ -83,3 +83,5 @@ To do it automatically, we can leverage DVC pipelines. If you are interested, re
 
 - introduction to [DVC pipelines](https://dvc.org/doc/start/data-pipelines)
 - video [Machine Learning Pipelines with DVC](https://www.youtube.com/watch?v=71IGzyH95UY)
+
+UPDATE 20/09/2024 : Workflow permissions changed to read and write permissions
